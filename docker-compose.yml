@@ -6,3 +6,4 @@ rtorrent:
   expose:
     - "6881"
     - "49264"
+  tty: true
